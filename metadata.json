@@ -1,0 +1,23 @@
+{
+    "title": "Python: Nested For Loops",
+    "slug": "python-nested-for-loops",
+    "description": "Introduces nested loops, indentation structure, and common iteration patterns over nested collections.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "python"
+    ],
+    "duration": 10,
+    "prerequisites": [
+        "programming-nested-loops",
+        "python-for-loops-over-iterables",
+        "python-range-in-for-loops",
+        "python-nested-collections"
+    ],
+    "related": [
+        "exercise-python-nested-loop-output-prediction",
+        "python-loop-control",
+        "programming-nested-loops"
+    ]
+}
