@@ -8,7 +8,7 @@
     "tags": [
         "python"
     ],
-    "duration": 10,
+    "duration": 1,
     "prerequisites": [
         "programming-nested-loops",
         "python-for-loops-over-iterables",
